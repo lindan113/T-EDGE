@@ -16,13 +16,13 @@ T-EDGE: Temporal WEighted MultiDiGraph Embedding for Ethereum Transaction Networ
 ## Citation
 ```
 @article{ lin2020modeling,
-   title={Modeling and Understanding Ethereum Transaction Records via A Complex Network Approach},
-   author={Dan Lin, Jiajing Wu, Qi Yuan, Zibin Zheng},
-   journal={IEEE Transactions on Circuits and Systems--II: Express Briefs },
-   year={2020},
-   month={to be published},
-   publisher={IEEE},
-   doi={10.1109/TCSII.2020.2968376}
+   title = {Modeling and Understanding Ethereum Transaction Records via A Complex Network Approach},
+   author = {Dan Lin, Jiajing Wu, Qi Yuan, Zibin Zheng},
+   journal = {IEEE Transactions on Circuits and Systems--II: Express Briefs },
+   year = {2020},
+   month = {to be published},
+   publisher = {IEEE},
+   doi = {10.1109/TCSII.2020.2968376}
 }
 ```
 
